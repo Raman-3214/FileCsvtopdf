@@ -15,6 +15,7 @@ public class Model {
     private double salary;
     private String Blood;
     private String Love;
+    private String Help;
 
     public double getSalary() {
         return salary;
