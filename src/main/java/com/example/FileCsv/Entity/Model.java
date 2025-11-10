@@ -13,6 +13,7 @@ public class Model {
     private String name;==
     private String email;
     private double salary;
+    private String Blood;
 
     public double getSalary() {
         return salary;
