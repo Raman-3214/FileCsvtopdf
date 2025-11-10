@@ -14,6 +14,7 @@ public class Model {
     private String email;
     private double salary;
     private String Blood;
+    private String Love;
 
     public double getSalary() {
         return salary;
