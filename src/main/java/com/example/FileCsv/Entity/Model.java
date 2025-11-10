@@ -42,7 +42,8 @@ public class Model {
         return id;
     }
 
-    public void setId(long id) {
+    public void setId(Integer id) {
         this.id = id;
     }
 }
+
